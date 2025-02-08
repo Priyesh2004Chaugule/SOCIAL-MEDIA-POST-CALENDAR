@@ -13,3 +13,7 @@
 **MENTOR**: NEELA SANTOSH
 
 # DESCRIPTION OF TASK LIKE HOW YOU PERFORMED AND WHAT YOU HAVE DONE AND PASTE PICTURES OF OUTPUT
+
+## OUTPUT
+
+[Social Media Calender Task 1.xlsx](https://github.com/user-attachments/files/18717931/Social.Media.Calender.Task.1.xlsx)
